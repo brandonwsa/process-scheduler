@@ -9,3 +9,6 @@ A process scheduler to determine average wait times and turnaround times from a 
     - Options are:
         -	0: FCFS
         -	1: Round Robin
+
+## Screenshots
+![Screenshot](https://github.com/brandonwsa/process-scheduler/blob/main/Scheduler/screenshots/SS.PNG)
